@@ -1,9 +1,10 @@
-import './App.css';
+import React from 'react';
 
 function App() {
   return (
     <div className="App">
-      <h1> this is my app</h1>
+      <h1>This is my app</h1>
+      <a href="/learn-react">Learn React</a>
     </div>
   );
 }
